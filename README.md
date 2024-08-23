@@ -14,7 +14,7 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Kannan.S
-RegisterNumber:  212223230098
+RegisterNumber: 212223230098
 ```
 ```py
 import pandas as pd
@@ -74,9 +74,17 @@ print("RMSE= ",rmse)
 # X and Y values:
 ![image](https://github.com/user-attachments/assets/71da57ea-b60b-4d19-96c8-c3fe67b1da4b)
 
+# Predication values of X and Y:
+![image](https://github.com/user-attachments/assets/32f351de-28b6-4d71-8708-64d7ce322c2b)
 
+# MSE,MAE and RMSE:
+![image](https://github.com/user-attachments/assets/f51642b0-66a8-411b-83be-d0a8b3924f00)
 
+# Training Set:
+![image](https://github.com/user-attachments/assets/cd3d5ce2-d122-4f61-869d-95d4606d20ec)
 
+# Testing Set:
+![image](https://github.com/user-attachments/assets/6a26960f-ab3e-4d2e-ba44-718c89cc644c)
 
 
 
